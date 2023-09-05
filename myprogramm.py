@@ -22,4 +22,4 @@ memoryview
 print('Hello world!')
 
 for i in range(5):
-    print('dont check')
+    print(1)
