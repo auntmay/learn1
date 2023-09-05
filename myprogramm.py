@@ -19,7 +19,7 @@ memoryview
 
 '''
 
-print('Hello world!')
+print('Я понял)')
 
 for i in range(5):
     print(1)
